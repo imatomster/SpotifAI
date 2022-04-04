@@ -3,7 +3,7 @@
 
 > Often times, music can run dry after repeated listens. Thankfully, with SpotifAI, we can make you a playlist we KNOW you will like. What are you waiting for? Tell us some of your favorite songs!
 
-More information can be found in our `README.md` in the docs folder and the following links!
+More information can be found in this `README.md`
 
 - [YouTube Demo](https://) (Not Available at the moment)
 
@@ -12,7 +12,7 @@ Still a Work In Progress!
 Start Date: 1/25/22
 
 # Description
-## 🔨 How we built it
+## 🔨 How I built it
 - Python
 - NumPy
 - Pandas
