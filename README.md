@@ -5,7 +5,7 @@
 
 More information can be found in this `README.md`
 
-- [YouTube Demo](https://www.youtube.com/watch?v=YjfuihfVOMY) (Not Available at the moment)
+- [YouTube Demo](https://www.youtube.com/watch?v=YjfuihfVOMY)
 
 # Current Status
 Still a Work In Progress!
